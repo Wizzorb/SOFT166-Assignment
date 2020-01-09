@@ -9,3 +9,5 @@ project repo, so hopefully that could be evidence that I have been using GitHub 
 
 At the moment, my project has been done on Visual Studio 2017. I used to use that for past JavaScript projects so it is what I'm most
 familiar with. It can be run by opening the .sln file into Visual Studio.
+
+EDIT: Ended up figuring out how to upload it, I had to delete the Packages file and then zip it to reduce the size enough.
